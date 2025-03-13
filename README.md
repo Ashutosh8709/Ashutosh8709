@@ -2,7 +2,7 @@
 <p>A passionate full stack development learner</p>
 
 # 💫 About Me:
-🤝 I’m looking for help with AI/ML<br>🌱 I’m currently learning Web Dev<br>⚡ I'm currently a college student<br>
+⚡ I'm currently a college student<br>🤝 I’m looking for help with AI/ML<br>🌱 I’m currently learning Web Dev<br>
 
 
 ## 🌐 Socials:
