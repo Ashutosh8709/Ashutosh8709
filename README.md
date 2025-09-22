@@ -1,8 +1,8 @@
 <h1>Hello World!, I'm Ashutosh 👋 </h1>
-<p>A passionate full-stack learner with interest in making AI/ML-based web Applications </p>
+<p>A passionate full-stack Developer with interest in making AI/ML-based web Applications </p>
 
 # 💫 About Me:
-⚡ I'm currently a college student<br>🤝 I’m looking for help with AI/ML<br>🌱 I’m currently learning Web Dev<br>
+⚡ I'm currently a college student<br>🤝 I’m looking for help with AI/ML<br>
 
 
 ## 🌐 Socials:
