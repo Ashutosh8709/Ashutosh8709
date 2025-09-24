@@ -1,4 +1,4 @@
-<h1>Hello World!, I'm Ashutosh 👋 </h1>
+<h1>Hello World!, I'm Ashutosh 👋 <img align="right" src="https://komarev.com/ghpvc/?username=ashutosh8709&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh8709" /> </h1>
 <p>A passionate full-stack Developer with interest in making AI/ML-based web Applications </p>
 
 # 💫 About Me:
@@ -23,9 +23,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ashutosh8709&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Ashutosh8709&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <picture>
